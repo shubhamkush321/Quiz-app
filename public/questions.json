@@ -1,0 +1,103 @@
+[
+  {
+    "question": "What is npm?",
+    "choices": [
+      "Node Package Manager",
+      "Node Process Manager",
+      "New Package Manager",
+      "Node Project Manager"
+    ],
+    "correctAnswer": "Node Package Manager"
+  },
+  {
+    "question": "What is the difference between `require()` and `import` in Node.js?",
+    "choices": [
+      "There is no difference",
+      "`import` is used for built-in Node.js modules, `require()` is used for external modules",
+      "`require()` is used for built-in Node.js modules, `import` is used for external modules",
+      "They are used interchangeably"
+    ],
+    "correctAnswer": "`require()` is used for built-in Node.js modules, `import` is used for external modules"
+  },
+  {
+    "question": "What is an EventEmitter in Node.js?",
+    "choices": [
+      "A function that emits events",
+      "A built-in Node.js module for managing events",
+      "A design pattern for handling asynchronous operations",
+      "An error handling mechanism in Node.js"
+    ],
+    "correctAnswer": "A built-in Node.js module for managing events"
+  },
+  {
+    "question": "How can you handle errors in Node.js?",
+    "choices": [
+      "Using try-catch blocks",
+      "Using callback functions",
+      "Using the `error` event",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "What is middleware in Express.js?",
+    "choices": [
+      "A built-in Node.js module for handling HTTP requests",
+      "A function that has access to the request and response objects",
+      "A routing mechanism in Express.js",
+      "A templating engine for generating HTML"
+    ],
+    "correctAnswer": "A function that has access to the request and response objects"
+  },
+    {
+      "question": "What is the purpose of the `fs` module in Node.js?",
+      "choices": [
+        "To handle file system operations",
+        "To manage network sockets",
+        "To create web servers",
+        "To manipulate strings"
+      ],
+      "correctAnswer": "To handle file system operations"
+    },
+    {
+      "question": "How can you create a basic HTTP server in Node.js?",
+      "choices": [
+        "Using the `http.createServer()` method",
+        "Using the `express.createServer()` method",
+        "Using the `fs.readFile()` method",
+        "Using the `net.createServer()` method"
+      ],
+      "correctAnswer": "Using the `http.createServer()` method"
+    },
+    {
+      "question": "What is a Promise in Node.js?",
+      "choices": [
+        "A built-in Node.js module for handling asynchronous operations",
+        "A design pattern for managing database connections",
+        "A way to handle multiple requests simultaneously",
+        "An object representing the eventual completion or failure of an asynchronous operation"
+      ],
+      "correctAnswer": "An object representing the eventual completion or failure of an asynchronous operation"
+    },
+    {
+      "question": "How can you install external packages in a Node.js project?",
+      "choices": [
+        "Using the `npm init` command",
+        "Using the `npm install` command",
+        "By copying the package files manually into the project directory",
+        "By downloading the packages from a website"
+      ],
+      "correctAnswer": "Using the `npm install` command"
+    },
+    {
+      "question": "What is the purpose of the `path` module in Node.js?",
+      "choices": [
+        "To interact with the file system",
+        "To parse URL strings",
+        "To manage environment variables",
+        "To create web servers"
+      ],
+      "correctAnswer": "To interact with the file system"
+    }
+  ]
+  
